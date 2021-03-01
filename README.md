@@ -35,3 +35,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 * [How I went from 12HR+ of Screen Time to less than 4HR!](https://ashwindev.hashnode.dev/how-i-went-from-12hr-of-screen-time-to-less-than-4hr)
+
+---
+
+<img align="left" alt="Ashwin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashwindevx&show_icons=true&hide_border=true" />
