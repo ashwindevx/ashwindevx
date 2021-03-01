@@ -30,6 +30,7 @@
 <br />
 <br />
 
-# 📕Blog posts
+### 📕Blog post
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+* [How I went from 12HR+ of Screen Time to less than 4HR!](https://ashwindev.hashnode.dev/how-i-went-from-12hr-of-screen-time-to-less-than-4hr)
