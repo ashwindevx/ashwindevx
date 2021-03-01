@@ -1,4 +1,4 @@
-### Hi there, I'm [Ashwin!](ashwinchauhan.netlify.app)👋🏻
+### Hi there, I'm [Ashwin!](https://ashwinchauhan.netlify.app/)👋🏻
 
 ## I'm a self-taught FrontEnd Web Developer from India.
 - 💻 I'm currently learning JavaScript, GIt and Github.
