@@ -1,19 +1,25 @@
-### Hi there, I'm [Ashwin!](https://ashwinchauhan.netlify.app/)👋🏻
+### Hi there, I'm [Ashwin!](https://ashwinchauhan.vercel.app/)👋🏻
 
-## I'm a self-taught FrontEnd Web Developer from India.
-- 💻 I'm currently learning JavaScript, GIt and Github.
-- 🔭 I'm currently looking to work with other passionate developers.
-- 🌱 In my free time I like to Design in Figma.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+## I'm a self-taught Front-End Web Developer from India.
+- 💻 I'm currently learning ReactJS and NextJS.
+- 🌱 I design Web Apps.
+- ✍🏻 Currently improving my writing skills by writing [blogs](https://ashwinchauhan.vercel.app/).
+
+
+![](https://komarev.com/ghpvc/?username=ashwindevx&color=brightgreen)
+
+---
 
 ### Connect with me:
 
-[<img align="left" width="22px" src="https://img.icons8.com/pastel-glyph/40/000000/earth-planet.png"/>](https://ashwinchauhan.netlify.app/)
-[<img align="left" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>](https://twitter.com/ashwindevx)
-[<img align="left" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://www.linkedin.com/in/ashwin-chauhan-81b137147/)
-[<img align="left" width="22px" src="https://img.icons8.com/ios-filled/50/000000/codepen.png"/>](https://codepen.io/ashwindevx)
+[![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ashwindevx)
+<a href="mailto:ashwindevx@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-chauhan-81b137147/)
+<br/>
 
-<br />
+---
 
 ### Languages and Tools
 
@@ -22,6 +28,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Tailwind" width="26px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -31,14 +38,16 @@
 
 ---
 
-### 📕Blog Post
+### 📕Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+* [Most used Array Methods explained with Example](https://ashwindev.hashnode.dev/most-used-array-methods-explained-with-example)
+* [How does useEffect hook works in simple words](https://ashwindev.hashnode.dev/how-does-useeffect-hook-works-in-simple-words)
 * [How I went from 12HR+ of Screen Time to less than 4HR!](https://ashwindev.hashnode.dev/how-i-went-from-12hr-of-screen-time-to-less-than-4hr)
 
 ---
 
-<img align="left" alt="Ashwin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashwindevx&show_icons=true&hide_border=true&theme=radical&hide=stars" />
+<img align="left" alt="Ashwin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashwindevx&show_icons=true&hide_border=true&theme=dark&hide=stars" />
 
 <!-- languages stats -->
 
