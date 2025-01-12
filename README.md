@@ -1,13 +1,13 @@
 # Ashwin Chauhan 
-I'm [Ashwin](https://www.ashwin.codes/) from Meerut, India. I have been fortunate enough to learn the How, What, and Why of Frontend Development. NextJS, ReactJS, Typescript, and TailwindCSS have been my go-to tech stack to build web apps.
+I am a 22-year-old frontend engineer with over 3 years of experience working with modern technologies like React.js, Next.js, Vue.js, Nuxt.js, Vuetify, Pinia, and TailwindCSS. Self-taught, I skipped formal education to focus on learning web development independently, gaining practical experience through volunteering and internships to break into the industry.
 
 ## Skills and Experience
 * React
 * NextJS
+* VueJS
+* Nuxt
 * Typescript
-* TailwindCSS
-* Firebase
-* HTML, CSS, JS
+* Javascript
 
 ## Recent Blogs
 * [Effortless Hoverable Dropdowns with Tailwind CSS](https://ashwincodes.hashnode.dev/effortless-hoverable-dropdowns-with-tailwind-css)
