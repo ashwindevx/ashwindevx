@@ -1,16 +1,18 @@
-# Ashwin Chauhan 
-I am a 22-year-old frontend engineer with over 3 years of experience working with modern technologies like React.js, Next.js, Vue.js, Nuxt.js, Vuetify, Pinia, and TailwindCSS. Self-taught, I skipped formal education to focus on learning web development independently, gaining practical experience through volunteering and internships to break into the industry.
+### Frontend Engineer — Vue, Nuxt, React, Next.js, TypeScript
 
-## Skills and Experience
-* React
-* NextJS
-* VueJS
-* Nuxt
-* Typescript
-* Javascript
+I build production web applications in the payments space — merchant
+dashboards, checkout flows, and reporting tools. 3+ years across
+Vue/Nuxt and React/Next.js. Currently working day-to-day in Vue 3
+and Nuxt.
 
-## Recent Blogs
-* [Effortless Hoverable Dropdowns with Tailwind CSS](https://ashwincodes.hashnode.dev/effortless-hoverable-dropdowns-with-tailwind-css)
-* [Uncovering the Mystery of Hoisting in JavaScript](https://ashwincodes.hashnode.dev/uncovering-the-mystery-of-hoisting-in-javascript)
-* [Understanding the Javascript Engine: How Javascript Works](https://ashwincodes.hashnode.dev/understanding-the-javascript-engine-how-javascript-works)
-* [More](https://ashwincodes.hashnode.dev/)
+Interested in browser internals, rendering performance, and frontend
+architecture.
+
+**Stack** — TypeScript · Vue 3 · Nuxt · Pinia · React · Next.js ·
+Tailwind CSS
+
+**Writing**
+- [Understanding the JavaScript Engine: How JavaScript Works](https://ashwincodes.hashnode.dev/understanding-the-javascript-engine-how-javascript-works)
+- [Uncovering the Mystery of Hoisting in JavaScript](https://ashwincodes.hashnode.dev/uncovering-the-mystery-of-hoisting-in-javascript)
+- [Effortless Hoverable Dropdowns with Tailwind CSS](https://ashwincodes.hashnode.dev/effortless-hoverable-dropdowns-with-tailwind-css)
+- [More →](https://ashwincodes.hashnode.dev/)
