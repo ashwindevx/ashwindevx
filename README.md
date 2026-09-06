@@ -1,7 +1,7 @@
 ### Frontend Engineer — Vue, Nuxt, React, Next.js, TypeScript
 
 I build production web applications in the payments space — merchant
-dashboards, checkout flows, and reporting tools. 3+ years across
+dashboards, checkout flows, and reporting tools. 4+ years across
 Vue/Nuxt and React/Next.js. Currently working day-to-day in Vue 3
 and Nuxt.
 
