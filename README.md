@@ -1,18 +1,18 @@
-### Frontend Engineer — Vue, Nuxt, React, Next.js, TypeScript
+# Frontend Engineer — Vue, Nuxt, React, Next.js, TypeScript
 
-I build production web applications in the payments space — merchant
-dashboards, checkout flows, and reporting tools. 4+ years across
-Vue/Nuxt and React/Next.js. Currently working day-to-day in Vue 3
-and Nuxt.
+I build production web apps in payments. Most recently at Atoa (UK), where I built
+and owned the merchant dashboard from the first commit — the product 2,000+ UK
+merchants use to take payments and manage payouts, moving £50–80M a year.
 
-Interested in browser internals, rendering performance, and frontend
-architecture.
+4 years across Vue/Nuxt and React/Next.js. Interested in browser internals,
+rendering performance, and frontend architecture.
 
-**Stack** — TypeScript · Vue 3 · Nuxt · Pinia · React · Next.js ·
-Tailwind CSS
+**Stack** — TypeScript · Vue 3 · Nuxt · Pinia · React · Next.js · Tailwind CSS
 
-**Writing**
-- [Understanding the JavaScript Engine: How JavaScript Works](https://ashwincodes.hashnode.dev/understanding-the-javascript-engine-how-javascript-works)
-- [Uncovering the Mystery of Hoisting in JavaScript](https://ashwincodes.hashnode.dev/uncovering-the-mystery-of-hoisting-in-javascript)
-- [Effortless Hoverable Dropdowns with Tailwind CSS](https://ashwincodes.hashnode.dev/effortless-hoverable-dropdowns-with-tailwind-css)
-- [More →](https://ashwincodes.hashnode.dev/)
+### Writing
+- Understanding the JavaScript Engine: How JavaScript Works
+- Uncovering the Mystery of Hoisting in JavaScript
+- Effortless Hoverable Dropdowns with Tailwind CSS
+- More →
+
+**Open to frontend roles.** [Resume](link) · [Book 10 minutes](https://cal.com/ashwin-chauhan/10min)
