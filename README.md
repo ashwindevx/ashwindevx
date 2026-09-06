@@ -15,4 +15,4 @@ rendering performance, and frontend architecture.
 - Effortless Hoverable Dropdowns with Tailwind CSS
 - More →
 
-**Open to frontend roles.** [Resume]([link](https://drive.google.com/file/d/1izRAxIZbALQyldSSmpsvk6h9JdkXfK3p/view?usp=sharing)) · [Book 10 minutes](https://cal.com/ashwin-chauhan/10min)
+**Open to frontend roles.** [Resume](https://drive.google.com/file/d/1izRAxIZbALQyldSSmpsvk6h9JdkXfK3p/view?usp=sharing) · [Book 10 minutes](https://cal.com/ashwin-chauhan/10min)
